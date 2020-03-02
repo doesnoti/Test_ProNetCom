@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1583158518 source:c:\programs\codeblocks\Программы\repeat\test_1_grafi\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
+1583164993 source:c:\programs\codeblocks\Программы\test_pronetcom\test_1_grafi\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
