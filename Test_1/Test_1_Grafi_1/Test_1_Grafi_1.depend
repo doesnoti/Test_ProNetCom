@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1583166502 source:c:\programs\codeblocks\Программы\test_pronetcom\test_1_grafi_1\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<queue>
+
