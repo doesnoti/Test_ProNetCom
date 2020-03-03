@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583254807 source:c:\programs\codeblocks\Программы\test_pronetcom\test_2\main.cpp
+	<iostream>
+	<string>
+
